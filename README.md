@@ -1,4 +1,3 @@
-Here's a polished version of the text suitable for adding to a README file on GitHub:
 
 ---
 
